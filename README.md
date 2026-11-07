@@ -1,20 +1,25 @@
 # 💫 Hi 👋, I'm Yuvraj Daga
-**Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur**
+**Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur (2026-2030)**
 
-Email Me 👉 ✉️ **founders@parivaarcfo.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Parivaar CFO — one place for a family's banks, bills, investments and goals. Next.js + TypeScript on the web, Flutter on mobile, Account Aggregator data.
 - 🌱 **I’m currently learning:** System design, Data Structures and Algorithms in C++, Docker and CI/CD, and deep learning with PyTorch
-- 👯 **I’m looking to collaborate on:** Fintech built on India's Account Aggregator framework, and AI agents that do real work
-- 🤔 **I’m looking for help with:** Account Aggregator production access, and partners in payments, KYC and market data
-- 💬 **Ask me about:** Registering a company at 18, the Account Aggregator framework, or building a 13-page AI product in 72 hours
-- 📫 **How to reach me:** founders@parivaarcfo.com · [yuvrajdaga.com](https://yuvrajdaga.com)
+- 🎓 **Education:** BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)
+- 💬 **Ask me about:** Registering a company at 18, India's Account Aggregator framework, building fintech products with Next.js and Flutter, or creating a portfolio website
+- 📫 **How to reach me:** yuvraj.daga.in@gmail.com · [yuvrajdaga.com](https://yuvrajdaga.com)
+- 🌐 - Portfolio Website -[yuvrajdaga.com](https://yuvrajdaga.com)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I incorporated my company at 18 — before it had a bank account.
+- ⚡ **Fun fact:** I registered a company before my 1st Semester.
 
-🏆 ₹50,000 Jury Special Award — IIM Bangalore CDPG National Student Case Challenge 2026
-🥇 Finalist — SARCathon 2026, Indian Institute of Technology Bombay
-📰 Featured in The Times of India, Rajasthan Patrika, Dainik Jagran and Dainik Hindustan
+## 🏅 Achievements
+
+- 🏆 **₹50,000 Jury Special Award** — IIM Bangalore CDPG National Student Case Challenge 2026
+- 🥇 **National Finalist** — SARCathon 2026, Indian Institute of Technology Bombay (IIT Bombay)
+- 🏢 **Founded Nextveda Technologies Private Limited** at 18 — CIN U70200RJ2026PTC119203
+- 📰 **Featured in** The Times of India, Rajasthan Patrika, Dainik Jagran and Dainik Hindustan
+- 🎤 **Speaker** — Indian Youth Parliament, Jaipur 2026
+
 
 
 ## 🏆 GitHub Trophies
