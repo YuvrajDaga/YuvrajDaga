@@ -26,34 +26,19 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GITHUB TROPHY WALL
 
-### 🥇 Gold Trophy Collection
+
+## 🏆 GITHUB TROPHY WALL
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onestar&column=7&margin-w=5&margin-h=5"
-    width="100%"
-    alt="Gold GitHub Trophies"
-  />
+  <img src="./assets/trophy-gold.png" width="100%" alt="Gold Trophy Collection" />
 </p>
 
-### 💎 Neon Trophy Collection
-
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=discord&column=6&margin-w=5&margin-h=5"
-    width="100%"
-    alt="Neon GitHub Trophies"
-  />
+  <img src="./assets/trophy-neon.png" width="100%" alt="Neon Trophy Collection" />
 </p>
 
-### 🏆 Dark Trophy Collection
-
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=dark_dimmed&column=6&margin-w=5&margin-h=5"
-    width="100%"
-    alt="Dark GitHub Trophies"
-  />
+  <img src="./assets/trophy-dark.png" width="100%" alt="Dark Trophy Collection" />
 </p>
 
 ## ⚡ GITHUB PERFORMANCE
