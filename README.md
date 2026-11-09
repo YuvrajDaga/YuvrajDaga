@@ -49,6 +49,19 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
   <img src="./special-recognition.png" width="100%" alt="Special Recognition Trophies">
 </p>
 
+## 🎖️ GITHUB ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" />
+</p>
+
+<p align="center">
+  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
+</p>
 
 
 ## ⚡ GITHUB PERFORMANCE
