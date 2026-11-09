@@ -66,28 +66,21 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ---
 
-
 ## ⚡ GITHUB PERFORMANCE
 
-### 📊 GitHub Statistics — Demo
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Repository"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuvrajDaga&theme=tokyonight" width="100%" alt="GitHub Profile Overview" />
 
-<table align="center">
-  <tr>
-    <td>
-      <h2>Stats</h2>
-      ⭐ <b>Total Stars:</b> 596<br/>
-      💻 <b>Total Commits:</b> 707<br/>
-      🔀 <b>Total PRs:</b> 10<br/>
-      ❗ <b>Total Issues:</b> 26<br/>
-      📦 <b>Repositories:</b> 1<br/>
-      👥 <b>Followers:</b> 47
-    </td>
-  </tr>
-</table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="49%" alt="Top Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="49%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=tokyonight&utcOffset=5.5" width="49%" alt="Coding Activity" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak" />
+
+</div>
 
 
 
