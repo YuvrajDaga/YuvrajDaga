@@ -26,29 +26,35 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GITHUB TROPHY WALL
 
-<div align="center">
+### 🥇 Gold Trophy Collection
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuvrajDaga&theme=github_dark" width="98%" alt="GitHub Profile Summary" />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onestar&column=7&margin-w=5&margin-h=5"
+    width="100%"
+    alt="Gold GitHub Trophies"
+  />
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=github_dark" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=github_dark&utcOffset=5.5" width="48%" alt="Productive Time" />
+### 💎 Neon Trophy Collection
 
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=discord&column=6&margin-w=5&margin-h=5"
+    width="100%"
+    alt="Neon GitHub Trophies"
+  />
+</p>
 
-## 🎖️ GITHUB ACHIEVEMENTS
+### 🏆 Dark Trophy Collection
 
-<div align="center">
-
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" />
-
-  <p><b>BUILD • CODE • CONTRIBUTE • INNOVATE</b></p>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=dark_dimmed&column=6&margin-w=5&margin-h=5"
+    width="100%"
+    alt="Dark GitHub Trophies"
+  />
+</p>
 
 ## ⚡ GITHUB PERFORMANCE
 
