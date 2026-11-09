@@ -23,17 +23,13 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GITHUB TROPHY WALL
 
-<p align="center">
-  <img src="trophy-gold.png" width="100%" />
-</p>
+
+## 🏆 GITHUB TROPHY WALL
 
 <p align="center">
-  <img src="trophy-neon.png" width="100%" />
+  <img src="./trophy-wall.png" alt="GitHub Trophy Wall" width="100%" />
 </p>
 
-<p align="center">
-  <img src="trophy-dark.png" width="100%" />
-</p>
 
 
 ## ⚡ GITHUB PERFORMANCE
