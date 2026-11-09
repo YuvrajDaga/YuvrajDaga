@@ -66,48 +66,28 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ---
 
-## ⚡ GITHUB PERFORMANCE
 
 ## ⚡ GITHUB PERFORMANCE
+
+### 📊 GitHub Statistics — Demo
 
 <p align="center">
-  <b>🏆 Developer Performance Showcase — Demo Data</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Repository"/>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <h2>⭐ 596</h2>
-      <b>Stars</b>
-    </td>
-    <td align="center" width="33%">
-      <h2>💻 707</h2>
-      <b>Commits</b>
-    </td>
-    <td align="center" width="33%">
-      <h2>👥 47</h2>
-      <b>Followers</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>🔀 10</h2>
-      <b>Pull Requests</b>
-    </td>
-    <td align="center">
-      <h2>🐛 26</h2>
-      <b>Issues</b>
-    </td>
-    <td align="center">
-      <h2>📦 1</h2>
-      <b>Repositories</b>
+    <td>
+      <h2>Stats</h2>
+      ⭐ <b>Total Stars:</b> 596<br/>
+      💻 <b>Total Commits:</b> 707<br/>
+      🔀 <b>Total PRs:</b> 10<br/>
+      ❗ <b>Total Issues:</b> 26<br/>
+      📦 <b>Repositories:</b> 1<br/>
+      👥 <b>Followers:</b> 47
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
-</p>
 
 
 
