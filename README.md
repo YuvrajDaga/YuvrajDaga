@@ -24,9 +24,11 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GitHub Trophies
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuvrajDaga)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=YuvrajDaga&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
 
 
 
