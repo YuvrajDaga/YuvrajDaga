@@ -68,24 +68,45 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## ⚡ GITHUB PERFORMANCE
 
-### 📊 GitHub Statistics
+## ⚡ GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Repository"/>
+  <b>🏆 Developer Performance Showcase — Demo Data</b>
 </p>
 
-### 💻 Programming & Coding Activity
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h2>⭐ 596</h2>
+      <b>Stars</b>
+    </td>
+    <td align="center" width="33%">
+      <h2>💻 707</h2>
+      <b>Commits</b>
+    </td>
+    <td align="center" width="33%">
+      <h2>👥 47</h2>
+      <b>Followers</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>🔀 10</h2>
+      <b>Pull Requests</b>
+    </td>
+    <td align="center">
+      <h2>🐛 26</h2>
+      <b>Issues</b>
+    </td>
+    <td align="center">
+      <h2>📦 1</h2>
+      <b>Repositories</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Commit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=tokyonight&utcOffset=5.5" width="48%" alt="Coding Activity"/>
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
 </p>
 
 
