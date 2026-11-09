@@ -22,14 +22,29 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-## 🏆 GITHUB ACHIEVEMENTS
+
+## 🏆 GITHUB TROPHY WALL
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15"
-    width="100%"
-    alt="GitHub Achievement Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=discord&no-frame=true&column=6&margin-w=10" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=matrix&no-frame=true&column=6&margin-w=10" width="100%" />
+</p>
+
+## 🎖️ GITHUB ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" />
 </p>
 
 <p align="center">
