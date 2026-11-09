@@ -21,10 +21,34 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 - 🎤 **Speaker** — Indian Youth Parliament, Jaipur 2026
 
 
-## 🏆 GitHub Trophies
+
+## 🏆 GITHUB ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=YuvrajDaga&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YuvrajDaga&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15"
+    width="100%"
+    alt="GitHub Achievement Trophies"
+  />
+</p>
+
+<p align="center">
+  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
+</p>
+
+## ⚡ GITHUB PERFORMANCE
+
+<p align="center">
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=YuvrajDaga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajDaga&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" />
 </p>
 
 
