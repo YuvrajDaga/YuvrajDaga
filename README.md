@@ -50,6 +50,43 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
   <img src="./special-recognition.png" width="95%" alt="Recognition"/>
 </p>
 
+## 🎖️ GITHUB ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75" alt="YOLO"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="75" alt="Galaxy Brain"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire"/>
+</p>
+
+<p align="center">
+  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
+</p>
+
+---
+
+## ⚡ GITHUB PERFORMANCE
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Repository"/>
+</p>
+
+### 💻 Programming & Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="48%" alt="Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=tokyonight&utcOffset=5.5" width="48%" alt="Coding Activity"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+</p>
 
 
 
