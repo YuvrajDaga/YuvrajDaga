@@ -24,63 +24,51 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 ## 🏆 GITHUB TROPHY WALL
 
-### 🥇 Core GitHub Activity
-<p align="center">
-  <img src="./core-activity.png" width="100%" alt="Core GitHub Activity">
-</p>
+<div align="center">
 
-### 🤝 Collaboration & Contributions
-<p align="center">
-  <img src="./collaboration.png" width="100%" alt="Collaboration Trophies">
-</p>
+### 📊 GitHub Profile Overview
 
-### 🌐 Community & Open Source
-<p align="center">
-  <img src="./community.png" width="100%" alt="Community Trophies">
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuvrajDaga&theme=tokyonight" width="100%" alt="GitHub Profile Overview"/>
 
-### 💻 Development & Engineering
-<p align="center">
-  <img src="./development.png" width="100%" alt="Development Trophies">
-</p>
+### ⭐ Stars, Commits & Contributions
 
-### 🌟 Special Recognition
-<p align="center">
-  <img src="./special-recognition.png" width="100%" alt="Special Recognition Trophies">
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="85%" alt="Actual GitHub Statistics"/>
+
+### 💻 Programming Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="85%" alt="Languages by Repository"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="85%" alt="Languages by Commits"/>
+
+### ⏰ Development Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=tokyonight&utcOffset=5.5" width="85%" alt="Commit Activity"/>
+
+</div>
 
 ## 🎖️ GITHUB ACHIEVEMENTS
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
-</p>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/>
 
+<br/>
 
+<b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
+
+</div>
 
 ## ⚡ GITHUB PERFORMANCE
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuvrajDaga&theme=tokyonight" width="100%" alt="GitHub Profile Overview" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuvrajDaga&theme=tokyonight" width="49%" alt="Top Languages" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="49%" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuvrajDaga&theme=tokyonight&utcOffset=5.5" width="49%" alt="Coding Activity" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
-
 
 
 
