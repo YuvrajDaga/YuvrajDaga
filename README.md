@@ -21,13 +21,32 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 - 🎤 **Speaker** — Indian Youth Parliament, Jaipur 2026
 
 
-## 🏆 GITHUB TROPHY WALL
-
 
 ## 🏆 GITHUB TROPHY WALL
 
+### 🥇 Core GitHub Activity
 <p align="center">
-  <img src="./trophy-wall.png" alt="GitHub Trophy Wall" width="100%" />
+  <img src="./core-activity.png" width="100%" alt="Core GitHub Activity">
+</p>
+
+### 🤝 Collaboration & Contributions
+<p align="center">
+  <img src="./collaboration.png" width="100%" alt="Collaboration Trophies">
+</p>
+
+### 🌐 Community & Open Source
+<p align="center">
+  <img src="./community.png" width="100%" alt="Community Trophies">
+</p>
+
+### 💻 Development & Engineering
+<p align="center">
+  <img src="./development.png" width="100%" alt="Development Trophies">
+</p>
+
+### 🌟 Special Recognition
+<p align="center">
+  <img src="./special-recognition.png" width="100%" alt="Special Recognition Trophies">
 </p>
 
 
