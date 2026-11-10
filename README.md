@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 ## 🏆 MY GITHUB TROPHY WALL
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=YuvrajDaga&theme=onestar&column=6&row=1&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=YuvrajDaga&theme=onestar&column=6&row=1&margin-w=5&margin-h=5" alt="GitHub Trophy Wall"/>
 </p>
 
 
