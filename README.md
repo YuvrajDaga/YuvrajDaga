@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://yuvrajdaga.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Yuvraj+Daga;Founder+%26+CEO%2C+Nextveda+Technologies;Building+Parivaar+CFO" alt="Hi, I am Yuvraj Daga - Founder and CEO, Nextveda Technologies - Building Parivaar CFO" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=900&center=true&vCenter=true&width=850&height=110&lines=Hi%2C+I'm+Yuvraj+Daga;Founder+%26+CEO%2C+Nextveda+Technologies;Building+Parivaar+CFO&color=FFFFFF" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=900&center=true&vCenter=true&width=850&height=110&lines=Hi%2C+I'm+Yuvraj+Daga;Founder+%26+CEO%2C+Nextveda+Technologies;Building+Parivaar+CFO&color=0D1117" alt="Hi, I am Yuvraj Daga - Founder and CEO, Nextveda Technologies - Building Parivaar CFO" />
+    </picture>
   </a>
 </div>
 
