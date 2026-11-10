@@ -7,8 +7,7 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:** System design, Data Structures and Algorithms in C++, Docker and CI/CD, and deep learning with PyTorch
 - 🎓 **Education:** BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)
 - 💬 **Ask me about:** Registering a company at 18, India's Account Aggregator framework, building fintech products with Next.js and Flutter, or creating a portfolio website
-- 📫 **How to reach me:** yuvraj.daga.in@gmail.com · [yuvrajdaga.com](https://yuvrajdaga.com)
-- 🌐 - Portfolio Website -[yuvrajdaga.com](https://yuvrajdaga.com)
+- 🌐 Portfolio Website : [yuvrajdaga.com](https://yuvrajdaga.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I registered a company before my 1st Semester.
 
