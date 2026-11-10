@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Yuvraj Daga
-**Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur (2026-2030)**
+**Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)**
 
 Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Parivaar CFO — one place for a family's banks, bills, investments and goals. Next.js + TypeScript on the web, Flutter on mobile, Account Aggregator data.
-- 🌱 **I’m currently learning:** System design, Data Structures and Algorithms in C++, Docker and CI/CD, and deep learning with PyTorch
+- 🔭 **I'm currently working on:** Parivaar CFO — one place for a family's banks, bills, investments and goals. Next.js + TypeScript on the web, Flutter on mobile, Account Aggregator data.
+- 🌱 **I'm currently learning:** System design, Data Structures and Algorithms in C++, Docker and CI/CD, and deep learning with PyTorch
 - 🎓 **Education:** BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)
 - 💬 **Ask me about:** Registering a company at 18, India's Account Aggregator framework, building fintech products with Next.js and Flutter, or creating a portfolio website
-- 🌐 Portfolio Website : [yuvrajdaga.com](https://yuvrajdaga.com)
+- 🌐 **Portfolio Website:** [yuvrajdaga.com](https://yuvrajdaga.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I registered a company before my 1st Semester.
 
@@ -53,8 +53,8 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595647109321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvraj_daga_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvrajdaga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yuvrajdaga_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvraj.daga.in@gmail.com) 
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61595647109321) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yuvraj_daga_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajdaga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yuvrajdaga_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvraj.daga.in@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -62,7 +62,7 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 **Languages**
 
@@ -99,5 +99,5 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
