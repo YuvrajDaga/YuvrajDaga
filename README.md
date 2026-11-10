@@ -1,4 +1,4 @@
-[!# 💫 Hi 👋, I'm Yuvraj Daga](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Aki/wave)
+![Hi, I'm Yuvraj Daga](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Yuvraj%20Daga/wave)
 
 **Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)**
 
