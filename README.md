@@ -51,17 +51,20 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 </p>
 
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🎖️ GITHUB ACHIEVEMENTS</h2>
 
 <p align="center">
-  <i>Recognizing milestones earned through real contributions,
-  collaboration, and community participation.</i>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw - Earned"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO - Earned"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YuvrajDaga?tab=achievements">
-    View My Verified GitHub Achievements →
-  </a>
+  <b>2 VERIFIED ACHIEVEMENTS</b>
+</p>
+
+<p align="center">
+  QUICKDRAW • YOLO
 </p>
 
 
