@@ -50,19 +50,20 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
   <img src="./special-recognition.png" width="95%" alt="Recognition"/>
 </p>
 
-## 🎖️ GITHUB ACHIEVEMENTS
+
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75" alt="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75" alt="Quickdraw"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="75" alt="Galaxy Brain"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire"/>
+  <i>Recognizing milestones earned through real contributions,
+  collaboration, and community participation.</i>
 </p>
 
 <p align="center">
-  <b>BUILD • CODE • CONTRIBUTE • INNOVATE</b>
+  <a href="https://github.com/YuvrajDaga?tab=achievements">
+    View My Verified GitHub Achievements →
+  </a>
 </p>
+
 
 ---
 
