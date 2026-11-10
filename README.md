@@ -39,32 +39,6 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-### 🥇 Core GitHub Activity
-<p align="center">
-  <img src="./core-activity.png" width="95%" alt="Core Activity"/>
-</p>
-
-### 🤝 Collaboration & Contributions
-<p align="center">
-  <img src="./collaboration.png" width="95%" alt="Collaboration"/>
-</p>
-
-### 🌐 Community & Open Source
-<p align="center">
-  <img src="./community.png" width="95%" alt="Community"/>
-</p>
-
-### 💻 Development & Engineering
-<p align="center">
-  <img src="./development.png" width="95%" alt="Development"/>
-</p>
-
-### 🌟 Special Recognition
-<p align="center">
-  <img src="./special-recognition.png" width="95%" alt="Recognition"/>
-</p>
-
-
 <h2 align="center">🎖️ GITHUB ACHIEVEMENTS</h2>
 
 <p align="center">
