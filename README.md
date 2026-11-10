@@ -44,8 +44,7 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuvrajDaga&theme=tokyonight" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="49%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuvrajDaga&theme=tokyonight" width="46%" alt="Most Used Languages" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajDaga&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak" />
 
