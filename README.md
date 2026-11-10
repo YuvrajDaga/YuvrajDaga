@@ -23,7 +23,21 @@ Email Me 👉 ✉️ **yuvraj.daga.in@gmail.com** For Collaboration/Project or A
 
 
 
-## 🏆 MY GITHUB TROPHY WALL
+
+<h2 align="center">🏆 MY GITHUB TROPHY WALL</h2>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="85" alt="Starstruck"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85" alt="Galaxy Brain"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" alt="Quickdraw"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85" alt="YOLO"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="85" alt="Public Sponsor"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/finishing-touch-default.png" width="85" alt="Finishing Touch"/>
+</p>
+
+
 
 ### 🥇 Core GitHub Activity
 <p align="center">
