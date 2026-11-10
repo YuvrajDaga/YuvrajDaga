@@ -1,4 +1,8 @@
-![Hi, I'm Yuvraj Daga](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Yuvraj%20Daga/wave)
+<div align="center">
+  <a href="https://yuvrajdaga.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Yuvraj+Daga;Founder+%26+CEO%2C+Nextveda+Technologies;Building+Parivaar+CFO" alt="Hi, I am Yuvraj Daga - Founder and CEO, Nextveda Technologies - Building Parivaar CFO" />
+  </a>
+</div>
 
 **Founder & Chief Executive Officer, Nextveda Technologies Private Limited || Building Parivaar CFO — an AI CFO for Indian families || BS in Management & Technology, Indian Institute of Technology Jodhpur (2026 – 2030)**
 
